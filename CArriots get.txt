@@ -1,0 +1,8 @@
+DEVICE
+
+GET https://api.carriots.com/devices/defaultDevice@JCarriot.JCarriot/
+Content-Type: application/json; charset=utf-8
+Carriots.apiKey: 27817cfff89c3e1e49c4a130e22a983bf56692ff0229527b88d450af1ed0913
+
+INFORMACION DEL DEVICE
+http://api.carriots.com/streams/?device=defaultDevice@carriots

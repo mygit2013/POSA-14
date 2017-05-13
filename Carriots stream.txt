@@ -1,0 +1,10 @@
+{
+        "protocol":"v1",
+        "at":1355837673,
+        "device":"defaultDevice@JCarriot.JCarriot",
+        "data":{
+                "temp":"21",
+                "hum":"58"
+        },
+        "checksum":""
+}

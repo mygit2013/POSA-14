@@ -1,0 +1,13 @@
+defaultDevice@JCarriot.JCarriot
+
+api keys
+
+read only
+2447585f28859ba6ce342682d1d25d686322df6d41849c26787950da6e850aef
+
+stream
+11a793435d0a8b061e829ddb3b23edda3facce13c57ded5dfcf8d23999530461
+
+
+full
+27817cfff89c3e1e49c4a130e22a983bf56692ff0229527b88d450af1ed09133
